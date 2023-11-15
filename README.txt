@@ -12,4 +12,7 @@
 ### Installation d'un éditeur de code léger multiplateforme et multicode
 ### https://www.sublimetext.com/download
 
+### Accès au code et instruction ###
+### https://github.com/XavierDegand/Initiation-Python.git
+
 #########################################################################
